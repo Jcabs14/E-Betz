@@ -1,12 +1,10 @@
-# Team Fuze Overwatch Teambuilder
-
-[Link to deployed project](https://ebetz.herokuapp.com/home)
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a>
     <img src="server/client/public/elogo.png" alt="Logo" width="80" height="80">
+    [Deployed project](https://ebetz.herokuapp.com/home)
   </a>
 </p>
 
